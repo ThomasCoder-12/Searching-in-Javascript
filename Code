@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+<style>
+.sb {
+  background-color: red;
+  color: white;
+  cursor: pointer;
+}
+</style>
+
+<form action="https://www.google.com/search" target="_blank">
+  <h2>Google Search in Javascript</h2>
+  <input name="q"><br><br>
+<button class="sb">Search</button>
+</form> 
+
+</body>
+</html>
+
